@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node": "10"
+    "node": "16"
   },
   "name": "api",
   "version": "0.0.1",
